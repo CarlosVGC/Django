@@ -1,0 +1,3 @@
+Para crear un proyecto
+1) Navegar hasta la ruta donde se quiere crear el proyecto, copiar esa direccion
+2) En consola donde se tiene instalado django ingresar el comando: django-admin startproject Nombre_Proyecto
