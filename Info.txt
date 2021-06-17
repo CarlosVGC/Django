@@ -1,3 +1,11 @@
 Para crear un proyecto
 1) Navegar hasta la ruta donde se quiere crear el proyecto, copiar esa direccion
 2) En consola donde se tiene instalado django ingresar el comando: django-admin startproject Nombre_Proyecto
+
+manage.py permite interactuar con los proyectos
+
+si se ingresa en la consola manage.py help se muestra ayuda de ese archivo
+
+ejecutar el comando python manage.py migrate para empezar a trabajar el proyecto, se crea un archivo db.sqilite3
+
+ejecutar manage.py runserver para empezar a ejecutar el servidor de pruebas muestra una direccion en este caso es "127.0.0.1:8000"
