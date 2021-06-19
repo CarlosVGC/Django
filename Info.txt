@@ -9,3 +9,8 @@ si se ingresa en la consola manage.py help se muestra ayuda de ese archivo
 ejecutar el comando python manage.py migrate para empezar a trabajar el proyecto, se crea un archivo db.sqilite3
 
 ejecutar python manage.py runserver para empezar a ejecutar el servidor de pruebas muestra una direccion en este caso es "127.0.0.1:8000"
+
+Request
+HttpResponse
+
+urls.py se especifican las urls que se van a poner en el documento
