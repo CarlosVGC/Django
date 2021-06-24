@@ -15,3 +15,11 @@ HttpResponse
 
 urls.py se especifican las urls que se van a poner en el documento
 
+platillas
+
+1) se crea el objeto de tipo Template    plt = Template(doc_externo.read()) Un doc html puede ser
+2)creacion del contexto			 ctx = Context()
+    datos adicionales para el template
+3) rederizar el objeto template 	 documento = plt.render(ctx)
+
+
