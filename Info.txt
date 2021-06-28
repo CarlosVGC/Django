@@ -22,4 +22,6 @@ platillas
     datos adicionales para el template
 3) rederizar el objeto template 	 documento = plt.render(ctx)
 
+Para poner variables u objetos en un documento html desde codigo python se debe de trabajar en el contexto
+
 
